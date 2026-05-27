@@ -1,0 +1,13 @@
+{
+  "bandwidth_budget_kb": 18,
+  "window_size": 8,
+  "min_trust": 0.45,
+  "latency_weight": 0.35,
+  "loss_weight": 0.2,
+  "congestion_weight": 0.25,
+  "trust_weight": 0.2,
+  "bandwidth_weight": 0.1,
+  "qos_1_threshold": 45.0,
+  "qos_2_threshold": 70.0,
+  "hmac_secret": "demo-secret-change-me"
+}
